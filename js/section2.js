@@ -2,7 +2,7 @@
 	var Section3=function(sec){
 		var self=this;
 		this.obj=sec;
-		alert(this.sec);
+		// alert(this.sec);
 		
 	}
 	Section3.prototype={
